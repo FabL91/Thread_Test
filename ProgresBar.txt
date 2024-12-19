@@ -1,0 +1,10 @@
+Créé une interface graphique codé en python avec pyqt6.
+Dans cette interface graphique, il y a un widget progressbar qui est incrémenté par une boucle FOR,
+dans laquelle il y a une temporisation que l'on peut modifier dans l'interface graphique.
+Pour démarrer la progressbar on appui sur un bouton start.
+
+https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
+
+https://github.com/mahseema/awesome-ai-tools?tab=readme-ov-file
+
+https://www.aixploria.com/en/category/developer-tools/page/7/?orderby=Gratuit&category_id=1685#038;category_id=1685
